@@ -1,1 +1,3 @@
-# Database_USCollege
+# US College Completion Dashboard & Analytics
+
+Understanding college completion trends is crucial for guiding future educational strategies and career choices. By deciphering these patterns, we hope to help students and institutions alike. Aspiring to enhance educational outcomes, this research captivates us, offering a pathway to informed decisions and improved opportunities for students. The main focus of our analysis echoes in the exploration of demographic and institutional factors, unravelling the impact of quality of education for students across the USA, and the very nature of educational institutions on the completion narrative and helping students make the right decisions.
